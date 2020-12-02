@@ -17,7 +17,6 @@ PLATFORMS = \
 	android-x64 \
 	android-x86 \
 	darwin-x64 \
-	linux-arm \
 	linux-armv7 \
 	linux-arm64 \
 	linux-x64 \
